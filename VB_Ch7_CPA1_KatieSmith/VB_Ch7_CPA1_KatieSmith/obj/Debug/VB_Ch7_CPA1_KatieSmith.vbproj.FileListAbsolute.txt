@@ -1,0 +1,13 @@
+C:\Users\hitba\source\repos\VB_Ch7_CPA1_KatieSmith\VB_Ch7_CPA1_KatieSmith\bin\Debug\VB_Ch7_CPA1_KatieSmith.exe.config
+C:\Users\hitba\source\repos\VB_Ch7_CPA1_KatieSmith\VB_Ch7_CPA1_KatieSmith\bin\Debug\VB_Ch7_CPA1_KatieSmith.exe
+C:\Users\hitba\source\repos\VB_Ch7_CPA1_KatieSmith\VB_Ch7_CPA1_KatieSmith\bin\Debug\VB_Ch7_CPA1_KatieSmith.pdb
+C:\Users\hitba\source\repos\VB_Ch7_CPA1_KatieSmith\VB_Ch7_CPA1_KatieSmith\bin\Debug\VB_Ch7_CPA1_KatieSmith.xml
+C:\Users\hitba\source\repos\VB_Ch7_CPA1_KatieSmith\VB_Ch7_CPA1_KatieSmith\obj\Debug\VB_Ch7_CPA1_KatieSmith.vbproj.AssemblyReference.cache
+C:\Users\hitba\source\repos\VB_Ch7_CPA1_KatieSmith\VB_Ch7_CPA1_KatieSmith\obj\Debug\VB_Ch7_CPA1_KatieSmith.frmMain.resources
+C:\Users\hitba\source\repos\VB_Ch7_CPA1_KatieSmith\VB_Ch7_CPA1_KatieSmith\obj\Debug\VB_Ch7_CPA1_KatieSmith.Resources.resources
+C:\Users\hitba\source\repos\VB_Ch7_CPA1_KatieSmith\VB_Ch7_CPA1_KatieSmith\obj\Debug\VB_Ch7_CPA1_KatieSmith.SplashScreen1.resources
+C:\Users\hitba\source\repos\VB_Ch7_CPA1_KatieSmith\VB_Ch7_CPA1_KatieSmith\obj\Debug\VB_Ch7_CPA1_KatieSmith.vbproj.GenerateResource.cache
+C:\Users\hitba\source\repos\VB_Ch7_CPA1_KatieSmith\VB_Ch7_CPA1_KatieSmith\obj\Debug\VB_Ch7_CPA1_KatieSmith.vbproj.CoreCompileInputs.cache
+C:\Users\hitba\source\repos\VB_Ch7_CPA1_KatieSmith\VB_Ch7_CPA1_KatieSmith\obj\Debug\VB_Ch7_CPA1_KatieSmith.exe
+C:\Users\hitba\source\repos\VB_Ch7_CPA1_KatieSmith\VB_Ch7_CPA1_KatieSmith\obj\Debug\VB_Ch7_CPA1_KatieSmith.xml
+C:\Users\hitba\source\repos\VB_Ch7_CPA1_KatieSmith\VB_Ch7_CPA1_KatieSmith\obj\Debug\VB_Ch7_CPA1_KatieSmith.pdb

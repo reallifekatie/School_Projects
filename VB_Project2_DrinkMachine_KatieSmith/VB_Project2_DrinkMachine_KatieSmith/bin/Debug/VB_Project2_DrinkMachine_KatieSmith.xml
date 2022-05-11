@@ -1,0 +1,126 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VB_Project2_DrinkMachine_KatieSmith
+</name>
+</assembly>
+<members>
+<member name="T:VB_Project2_DrinkMachine_KatieSmith.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:VB_Project2_DrinkMachine_KatieSmith.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:VB_Project2_DrinkMachine_KatieSmith.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:VB_Project2_DrinkMachine_KatieSmith.My.Resources.Resources.CherryVanilla">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Project2_DrinkMachine_KatieSmith.My.Resources.Resources.CherryVanillaZero">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Project2_DrinkMachine_KatieSmith.My.Resources.Resources.Coke">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Project2_DrinkMachine_KatieSmith.My.Resources.Resources.Coke2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Project2_DrinkMachine_KatieSmith.My.Resources.Resources.CokeLogo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Project2_DrinkMachine_KatieSmith.My.Resources.Resources.CokeLogoHeader">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Project2_DrinkMachine_KatieSmith.My.Resources.Resources.CokeZero">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Project2_DrinkMachine_KatieSmith.My.Resources.Resources.Dasani">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Project2_DrinkMachine_KatieSmith.My.Resources.Resources.DietCoke">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Project2_DrinkMachine_KatieSmith.My.Resources.Resources.JoltCola">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Project2_DrinkMachine_KatieSmith.My.Resources.Resources.LogoCherryVanillaReg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Project2_DrinkMachine_KatieSmith.My.Resources.Resources.LogoCherryVanillaZero">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Project2_DrinkMachine_KatieSmith.My.Resources.Resources.LogoCokeZero">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Project2_DrinkMachine_KatieSmith.My.Resources.Resources.LogoDasani">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Project2_DrinkMachine_KatieSmith.My.Resources.Resources.LogoDietCoke">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Project2_DrinkMachine_KatieSmith.My.Resources.Resources.LogoOrangeVanilla">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Project2_DrinkMachine_KatieSmith.My.Resources.Resources.LogoStarlight">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Project2_DrinkMachine_KatieSmith.My.Resources.Resources.Monster_White">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Project2_DrinkMachine_KatieSmith.My.Resources.Resources.OrangeVanilla">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Project2_DrinkMachine_KatieSmith.My.Resources.Resources.Starlight">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

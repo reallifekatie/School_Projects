@@ -1,0 +1,12 @@
+C:\Users\hitba\source\repos\VB_Ch10_GuidedGamingArt\VB_Ch10_GuidedGamingArt\bin\Debug\VB_Ch10_GuidedGamingArt.exe.config
+C:\Users\hitba\source\repos\VB_Ch10_GuidedGamingArt\VB_Ch10_GuidedGamingArt\bin\Debug\VB_Ch10_GuidedGamingArt.exe
+C:\Users\hitba\source\repos\VB_Ch10_GuidedGamingArt\VB_Ch10_GuidedGamingArt\bin\Debug\VB_Ch10_GuidedGamingArt.pdb
+C:\Users\hitba\source\repos\VB_Ch10_GuidedGamingArt\VB_Ch10_GuidedGamingArt\bin\Debug\VB_Ch10_GuidedGamingArt.xml
+C:\Users\hitba\source\repos\VB_Ch10_GuidedGamingArt\VB_Ch10_GuidedGamingArt\obj\Debug\VB_Ch10_GuidedGamingArt.vbproj.AssemblyReference.cache
+C:\Users\hitba\source\repos\VB_Ch10_GuidedGamingArt\VB_Ch10_GuidedGamingArt\obj\Debug\VB_Ch10_GuidedGamingArt.frmArt.resources
+C:\Users\hitba\source\repos\VB_Ch10_GuidedGamingArt\VB_Ch10_GuidedGamingArt\obj\Debug\VB_Ch10_GuidedGamingArt.Resources.resources
+C:\Users\hitba\source\repos\VB_Ch10_GuidedGamingArt\VB_Ch10_GuidedGamingArt\obj\Debug\VB_Ch10_GuidedGamingArt.vbproj.GenerateResource.cache
+C:\Users\hitba\source\repos\VB_Ch10_GuidedGamingArt\VB_Ch10_GuidedGamingArt\obj\Debug\VB_Ch10_GuidedGamingArt.vbproj.CoreCompileInputs.cache
+C:\Users\hitba\source\repos\VB_Ch10_GuidedGamingArt\VB_Ch10_GuidedGamingArt\obj\Debug\VB_Ch10_GuidedGamingArt.exe
+C:\Users\hitba\source\repos\VB_Ch10_GuidedGamingArt\VB_Ch10_GuidedGamingArt\obj\Debug\VB_Ch10_GuidedGamingArt.xml
+C:\Users\hitba\source\repos\VB_Ch10_GuidedGamingArt\VB_Ch10_GuidedGamingArt\obj\Debug\VB_Ch10_GuidedGamingArt.pdb
