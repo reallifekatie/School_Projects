@@ -1,0 +1,25 @@
+
+UPPER SECTION
+1)  Aces
+2)  Twos
+3)  Threes
+4)  Fours
+5)  Fives
+6)  Sixes
+TOTAL SCORE
+BONUS if >= 63
+TOTAL of Upper Section
+
+LOWER SECTION
+7)  3 of a kind
+8)  4 of a kind
+9)  Full House
+10) Sm. Straight
+11) Lg. Straight
+12) YAHTZEE
+13) Chance
+YAHTZEE BONUS
+TOTAL of Lower Section
+TOTAL of Upper Section
+GRAND TOTAL
+
