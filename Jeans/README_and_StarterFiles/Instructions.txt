@@ -1,0 +1,16 @@
+Jeans Ecommerce Site Specifications
+
+Complete the following steps:
+
+ 
+
+    Watch Project Overview Video
+    Watch Database Overview Video
+    Download the jeans.sql
+    Create a jeans database in phpMyAdmin
+    Import the jeans.sql 
+    Download the WEB250_Jeans_Project.zip and extract it
+    Copy the WEB250_Jeans_Project to your htdocs/WEB250/ folder
+    Watch the Jeans Project Video
+    Complete the PHP to get your site working 
+    Once complete zip your WEB250_Jeans_Project folder and submit to Moodle

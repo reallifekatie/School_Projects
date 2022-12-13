@@ -1,0 +1,43 @@
+
+
+WEB 250 Final Project – 200 points
+
+Create a database named petshop and create appropriate tables and data to handle the following:
+
+    Modify the petmart.php page to be data driven
+
+    Modify the petguide.php to be data driven
+
+    Implement a manage.php to manage either the PetMart page or the PetGuide page (you
+
+    can choose just one)
+
+    Implement a registration/users/login process for the manage.php ; in other words a
+
+    user cannot get to the manage page until they register and log in.
+
+    Save the contact information from the form on the contacts.php
+
+    Remember to create a connect_db.php file that lives in your includes folder – only have
+
+    ONE connection to the database
+
+    Zip your website and export your database and turn in two files to Moodle
+
+Points Breakdown:
+
+50 points
+
+Data driven pages for the PetMart and PetGuide pages (this includes creating , populating, reading from and displaying from appropriate tables that you design).
+
+20 points
+
+Save contact information from the Contact Us page (this includes creating and storing data to an appropriate table that you design).
+
+40 points
+
+Implement the manage.php functionality to manage either the PetMart page or the PetGuide page (see video).
+
+40 points
+
+Implement the registration and login process for your management page – make sure users are registered and logged in before managing content.
